@@ -15,10 +15,9 @@ I'm passionate about blending code and creativity — whether it's crafting UI o
 
 ### 🛠️ Projects
 
-> 🚧 More coming soon — but here’s a peek at what I’m working on:
+> 🚧 More coming soon! but here’s a peek at what I’m working on:
 
 - **Football Endless Kicker** – A Unity-powered football kicking mini-game where players aim to score field goals from increasing distances and wind conditions. 
-- **Museum Pedestal Scene** – A stylized Blender scene with asset scanning and optimization focus  
 
 ---
 
