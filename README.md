@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm a Digital Artist, Junior Developer, and Climber
+# 👋 Hey there! I'm a UX/UI Designer, Digital Artist, Junior Developer, and Climber
 
 I'm passionate about blending code and creativity — whether it's crafting UI or building interactive experiences. Always learning, always climbing (figuratively and literally).
 
@@ -14,7 +14,7 @@ I'm passionate about blending code and creativity — whether it's crafting UI o
 
 ### 🌐 Portfolio
 
-[🔗 Visit my site](https://chloefeierabend.github.io/github-portfolio/)) 
+[🔗 Visit my site](https://chloefeierabend.github.io/github-portfolio/) 
 
 ---
 
